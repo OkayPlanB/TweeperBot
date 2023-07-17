@@ -6,16 +6,13 @@ You will have to set up a developer account with Twitter to get the required key
 This code is the barebones version of 2 Twitter bots currently running: [Rocket Discourse Bot](https://twitter.com/RocketDiscourse) and [Shuttle Discourse Bot](https://twitter.com/STSDerivedBot)
 These both are currently on AWS Lambda and are set to post every hour.
 
----
 
 # Tweepy Library
 
 The Tweepy library is required to use this code, and can be found at https://www.tweepy.org/
 
----
 
 # AWS Lambda Release
 
----
 
 Update when added
