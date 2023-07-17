@@ -4,6 +4,7 @@ This is a very simple bot that reads text from a file and posts a tweet, then re
 You will have to set up a developer account with Twitter to get the required keys to use this bot. Once your keys are added, you can use the dummyList file provided which has 50 random quotes simply for testing and demo, or you can edit the code to pull from your own text file.
 
 This code is the barebones version of 2 Twitter bots currently running: [Rocket Discourse Bot](https://twitter.com/RocketDiscourse) and [Shuttle Discourse Bot](https://twitter.com/STSDerivedBot)
+
 These both are currently on AWS Lambda and are set to post every hour.
 
 
