@@ -15,4 +15,4 @@ The Tweepy library is required to use this code, and can be found at https://www
 # AWS Lambda Release
 
 
-Update when added
+This is a version of the code created specifically to run on the AWS Lambda service. This will read text from a file but not edit the file of what lines were used, allowing for different combinations of lines. You will have to install a layer with all require python libraries to use this.
